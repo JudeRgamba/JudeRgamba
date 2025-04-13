@@ -1,17 +1,6 @@
 # All About Me
 Hi! I am Jude Raphael Gamba.
 
-## Sections:
-- [All About Me](#all-about-me)
-  - [Sections:](#sections)
-  - [Major and Education](#major-and-education)
-  - [My Goals](#my-goals)
-  - [Work Experience](#work-experience)
-    - [Student Intern](#student-intern)
-    - [Web Development Intern](#web-development-intern)
-  - [Background](#background)
-  - [Personal Interests](#personal-interests)
-
 ## Major and Education
 I am currently a second-year **computer science** major at **UC San Diego**. I am also interested in minoring in **cognitive science**.
 
@@ -52,7 +41,6 @@ One of the quotes I live by is:
 
 Life is not all about the work you do but also what you do outside of it. Looking to the outdoors for time away from screens and responsibilities allows me to reflect on my own motivations.
 <!-- insert images of recent travels-->
-![image of joshua tree national park at night](IMG_3332.JPG)
 
 ## Personal Interests
 Aside from going outdoors, one of my favorite hobbies is building keyboards! So far I have been able to build 6 keyboards and hopefully I am able to create more interesting and different sounding keyboards in the future. Keyboard building is a lot easier than people think. It involves these steps:
@@ -62,4 +50,5 @@ Aside from going outdoors, one of my favorite hobbies is building keyboards! So 
 4. Lube your switches(optional because it takes way too long)
 5. Put it all together(switches->keycaps0)
 <!-- insert images here for keyboard builds-->
-![image of keyboards](IMG_2936.JPG)
+
+## Thanks for stopping by
